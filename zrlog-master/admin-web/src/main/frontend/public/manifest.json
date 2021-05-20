@@ -1,8 +1,0 @@
-{
-  "short_name": "Admin frontend",
-  "name": "ZrLog admin",
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
-}
